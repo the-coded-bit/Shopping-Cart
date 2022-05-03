@@ -10,6 +10,9 @@ yarn dev
 
 
 
+**`PS: this project is Intented to learn Redux toolkit, react-redux, not to focus on frontend`**
+
+
 ## Usage
 
 > ### **Shopping Cart**  

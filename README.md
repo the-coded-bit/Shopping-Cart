@@ -35,4 +35,4 @@ yarn dev
 #### Vedio Link
 
 
-[see state persistence between routes in this vedio](https://drive.google.com/file/d/1IWz5-aMyngGo7lg8j6H52S3ZZTBWvum7/view?usp=sharing)
+[Visit here to see state persistance between routes](https://drive.google.com/file/d/1IWz5-aMyngGo7lg8j6H52S3ZZTBWvum7/view?usp=sharing)
